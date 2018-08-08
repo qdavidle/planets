@@ -1,3 +1,7 @@
-Jupiter is another planet new change by Eliza
+<<<<<<< HEAD
+Jupiter is another planet new change by Eliza  try 2
+=======
+Jupiter is not another planet
+>>>>>>> 0b9538c3a24347e6908d0ed443618497e5b2eec0
 add a new line
 new changes
